@@ -1,3 +1,5 @@
+from metamvc.DatabaseUserData import DatabaseUserData
+
 def main():
-    print("Hello World! Starts here the metamvc program to change the world!")
+    DatabaseUserData()
 
